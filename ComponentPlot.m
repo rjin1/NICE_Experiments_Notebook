@@ -3,7 +3,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 addpath('./Results')
 addpath('./Plot_Code')
-addpath('./fMRI_data')
+addpath('./SynfMRIspatialmaps')
 load brain_mask_conference.mat ind_brain
 
 % Load your estimates, for example:
