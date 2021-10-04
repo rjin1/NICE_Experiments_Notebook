@@ -6,3 +6,12 @@
 2). The plot of correlation and histogram matching results after 100 epochs training is recorded for you to check. Results are not the early stopping results but already valid.
 
 3). The default folder for storing results is 'Results_synGumbel'.
+
+# 2. The 'NICE_SynfMRIspatialmapsExperiment_Main.ipynb' contains all codes of NICE experiment on synthetic fMRI sources(spatial maps).
+1). The distribution parameters used in prior are same with the experiment above. 
+
+2). fMRI sources are stored in 'SynfMRIspatialmaps'.
+
+3). The default folder for storing results is 'Results_synfMRI'.
+
+4). You can use 'ComponentPlot.m' to plot maps, this code contains unmasking and 2D visualization.
